@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Abdullah%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20ML%20Practitioner%20%7C%20Computer%20Systems%20Engineer&descAlignY=55&descSize=18&descColor=8b949e" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Abdullah%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20Computer%20Systems%20Engineer&descAlignY=55&descSize=18&descColor=8b949e" alt="header" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -117,8 +117,8 @@ I'm a fresh Computer Systems Engineering graduate who's passionate about the ful
     </td>
     <td width="50%" valign="top">
       <h3>💼 Portfolio Projects</h3>
-      <p><strong>Applied ML · Analytics</strong></p>
-      <p>Portfolio of applied data science and engineering work, showcasing end-to-end thinking from data collection to insight delivery.</p>
+      <p><strong>Analytics projects</strong></p>
+      <p>Some Analytics projects for portfolio and practice purposes on different technologies.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
         <img src="https://img.shields.io/badge/ML-blueviolet?style=flat-square" />

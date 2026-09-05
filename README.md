@@ -13,7 +13,7 @@
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahkhan5939/)
 [![GitHub](https://img.shields.io/badge/GitHub-Abdullah2139-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah2139)
-[![Location](https://img.shields.io/badge/📍-Peshawar%2C%20Pakistan-green?style=for-the-badge)](https://github.com/Abdullah2139)
+[![Location](https://img.shields.io/badge/📍-Peshawar%2C%20Pakistan-green?style=for-the-badge)]
 
 </div>
 
@@ -172,7 +172,5 @@ I'm actively looking for **Data Engineering** and **Analytics** internships and 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&animation=fadeIn" alt="footer" />
 
 *"Data is the new oil — and pipelines are how you refine it."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abdullah2139&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>

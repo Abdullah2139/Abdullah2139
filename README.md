@@ -13,7 +13,7 @@
 <!-- Social badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahkhan5939/)
 [![GitHub](https://img.shields.io/badge/GitHub-Abdullah2139-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdullah2139)
-[![Location](https://img.shields.io/badge/📍-Peshawar%2C%20Pakistan-green?style=for-the-badge)]
+![Location](https://img.shields.io/badge/📍-Peshawar%2C%20Pakistan-green?style=for-the-badge)
 
 </div>
 

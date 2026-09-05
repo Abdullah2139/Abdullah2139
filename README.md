@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+data+pipelines+that+scale;From+raw+data+to+business+insight;Computer+Vision+%2B+Data+Engineering;Open+to+internships+%26+entry-level+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+data+pipelines+that+scale;From+raw+data+to+business+insight;Data+Engineering+and+Analytics;Open+to+internships+%26+entry-level+roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,14 +25,14 @@
 class Abdullah:
     name        = "Abdullah Khan"
     degree      = "Computer Systems Engineering — UET Peshawar"
-    focus       = ["Data Engineering", "Analytics", "Computer Vision"]
+    focus       = ["Data Engineering", "Analytics"]
     cloud       = ["Azure", "AWS", "Snowflake"]
-    languages   = ["Python", "SQL", "Bash"]
+    languages   = ["Python", "SQL", "Spark"]
     currently   = "Open to internship & entry-level DE / Analytics roles"
     fun_fact    = "I built a real-time traffic violation detector for my FYP 🚦"
 ```
 
-I'm a fresh Computer Systems Engineering graduate who's passionate about the full data journey — from raw ingestion through pipelines to actionable insight. I build end-to-end ETL/ELT solutions, work with cloud data warehouses, and have hands-on experience applying ML & computer vision to real-world problems.
+I'm a fresh Computer Systems Engineering graduate who's passionate about the full data journey — from raw ingestion through pipelines to actionable insight.
 
 ---
 
@@ -53,7 +53,7 @@ I'm a fresh Computer Systems Engineering graduate who's passionate about the ful
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🤖 AI / ML / Computer Vision
-![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFFF?style=for-the-badge&logo=pytorch&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=pytorch&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![EasyOCR](https://img.shields.io/badge/EasyOCR-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -63,7 +63,6 @@ I'm a fresh Computer Systems Engineering graduate who's passionate about the ful
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
 
 </div>
 
@@ -131,32 +130,18 @@ I'm a fresh Computer Systems Engineering graduate who's passionate about the ful
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdullah2139&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah2139&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah2139&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff" />
-
-</div>
 
 ---
 
-## 🗺️ DE / ML Expertise Map
+## 🗺️ DE / Analytics Expertise Map
 
 ```
 Data Engineering          ██████████████░░░  Intermediate
 SQL & Analytics           ███████████████░░  Intermediate-Advanced
 Azure (ADF, Blob, SQL DB) ████████████░░░░░  Intermediate
 Snowflake & DWH Design    ████████████░░░░░  Intermediate
-Computer Vision (YOLO)    █████████████░░░░  Intermediate
 ETL Pipeline Design       ███████████████░░  Intermediate-Advanced
 Python                    ████████████████░  Proficient
-Django                    ███████████░░░░░░  Working Knowledge
 ```
 
 ---
@@ -166,7 +151,6 @@ Django                    ███████████░░░░░░  W
 - 📦 Expanding my **data-engineering-projects** repo with Apache Spark & dbt projects
 - 📈 Deepening expertise in **Azure Data Factory** orchestration patterns
 - 🔍 Exploring **dbt + Snowflake** for analytics engineering workflows
-- 💡 Building a **freelancing niche** around AI-powered lead generation on Fiverr
 
 ---
 

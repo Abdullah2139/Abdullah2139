@@ -28,7 +28,7 @@ class Abdullah:
     name        = "Abdullah Khan"
     degree      = "Computer Systems Engineering, UET Peshawar"
     focus       = ["Data Engineering", "ETL Pipelines", "Data Warehousing", "Analytics"]
-    cloud       = ["Azure", "AWS", "Snowflake"]
+    cloud       = ["Azure", "AWS", "Snowflake", "Databricks"]
     languages   = ["Python", "SQL"]
     learning    = ["Apache Spark", "dbt", "Azure Data Factory orchestration"]
     currently   = "Open to Associate Data Engineer and entry-level DE / Analytics roles"
